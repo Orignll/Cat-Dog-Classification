@@ -29,7 +29,7 @@ Dilengkapi dengan UI modern, animasi interaktif, confidence score, dan halaman f
 
 ## 📸 Cuplikan Layar
 
-<img src="https://user-images.githubusercontent.com/your-screenshot-1.pn](https://github.com/user-attachments/assets/d0bc8185-b9b2-46dd-8b09-62f61cc330db" width="250"/>
+<img src="https://github.com/user-attachments/assets/d0bc8185-b9b2-46dd-8b09-62f61cc330db" width="250"/>
 
 
 ![WhatsApp Image 2025-07-04 at 18 48 29_7b1c8038](https://github.com/user-attachments/assets/d0bc8185-b9b2-46dd-8b09-62f61cc330db)
