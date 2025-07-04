@@ -28,9 +28,9 @@ Dilengkapi dengan UI modern, animasi interaktif, confidence score, dan halaman f
 
 ## 📸 Cuplikan Layar
 
-<img src="https://user-images.githubusercontent.com/your-screenshot-1.png" width="250"/>
-<img src="https://user-images.githubusercontent.com/your-screenshot-2.png" width="250"/>
-<img src="https://user-images.githubusercontent.com/your-screenshot-3.png" width="250"/>
+![WhatsApp Image 2025-07-04 at 18 48 29_7b1c8038](https://github.com/user-attachments/assets/d0bc8185-b9b2-46dd-8b09-62f61cc330db)
+![WhatsApp Image 2025-07-04 at 18 47 28_1b49117a](https://github.com/user-attachments/assets/0ec67f68-e32d-40e3-87f4-db3a97036069)
+![WhatsApp Image 2025-07-04 at 18 47 28_f7833f98](https://github.com/user-attachments/assets/41c9011b-8e85-4b2c-aecd-221a58312c79)
 
 ---
 
@@ -89,4 +89,3 @@ MIT License
 
 ---
 
-> Made with ❤️ by [Nama Anda]
