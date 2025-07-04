@@ -84,9 +84,4 @@ Silakan fork repository ini dan buat perubahan yang bermanfaat.
 
 ---
 
-## 📄 Lisensi
-
-MIT License
-
----
 
